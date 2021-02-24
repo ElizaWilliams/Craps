@@ -82,3 +82,20 @@ public class Craps
         System.out.println("Goodbye!");
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+Fantastic implementation of the Craps game, with very clean code, well-organized
+and easy to read/follow. You split it up into a couple of static methods which
+was a good idea. Could have extended that to the instructions part as well,
+of course. 
+
+Nicely done!
+
+SCORE: 15/15
+
+*/
+
